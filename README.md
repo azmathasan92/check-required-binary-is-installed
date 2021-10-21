@@ -1,0 +1,1 @@
+# check-required-binary-is-installed
