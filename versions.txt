@@ -1,0 +1,11 @@
+##
+# Versions for required intalled binaries
+# Format is binary:version
+# If the binary version can be any use the wildcard character '*'
+##
+
+terraform:0.12.30
+kubectl:1.21.1
+docker:20.10.8
+vault:*
+jq:*
